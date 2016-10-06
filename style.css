@@ -1,0 +1,57 @@
+
+.NBfruits, .BTfruits{
+	width:20px;
+}
+form > fieldset {
+    margin-left:25%;
+	width:50%;
+}
+label {
+font-size:1.5em;
+}
+#titre {
+	text-align:center;
+}
+#menu {
+    list-style: none;
+}
+#menu li {
+	display:inline;
+    padding:10px;
+    margin:4px;
+	border: 4px blue;
+}
+#menu li#courant, #menu li:hover {
+	background-color: cyan;
+}
+#right {
+	text-align:right;
+}
+
+#pied {
+	position: fixed;
+	bottom	: 0;
+	right	: 0;
+}
+
+table {
+	border: medium solid #000000;
+	width: 50%;
+    margin-left:25%;
+}
+td, th , caption{
+	font-size:1.5em;
+	border: thin solid #6495ed;
+}
+caption{
+	width: 100%;
+}
+th {
+	text-align:center;
+	width: 50%;
+}
+td {
+	font-size:1.5em;
+	text-indent:10%;
+	width: 50%;
+}
